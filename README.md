@@ -14,3 +14,13 @@ Zkopíruj si odkaz se záložky **clone** a potom v terminálu ve vybrané slož
 ![git clone](git/gitclone.png) 4. Tady už můžeš přidávat, commitovat a pushovat změny a uvidíš je na svém Githubu.  
 ! Pokud by sis naklonovala rovnou tento repozitář, nemohla bys do něj ukládat změny! \
 Na to, jak udělat fork repozitáře se můžes podívat v [krátkém videu](https://youtu.be/K7rE3jRCjD4).
+
+## Zadání
+
+Prohlédni si soubor index.html. Všimni si, že na řádku 9 je do stránky bootstrap. Ten nám zajišťuje, že použití určitých tříd nám rovnou dané elementy nastyluje.
+Spusť si stránku v Live Serveru. Měla bys vidět kartičku se základním stylováním bootstrapu.
+![bootstrap](vysledek/bootstrap.jpg)
+
+### Přepiš elementy podle zadání
+
+![result](vysledek/specificita_result.jpg)
