@@ -17,7 +17,7 @@ Na to, jak udělat fork repozitáře se můžes podívat v [krátkém videu](htt
 
 ## Zadání
 
-Prohlédni si soubor index.html. Všimni si, že na řádku 9 je do stránky bootstrap. Ten nám zajišťuje, že použitím určitých tříd se nám rovnou dané elementy nastylují.
+Prohlédni si soubor index.html. Všimni si, že na řádku 9 je do stránky naimportovaná knihovna Bootstrap. Ta zajišťuje, že použitím určitých tříd se nám dané elementy rovnou nastylují.
 
 ![bootstrap](vysledek/bootstrap.jpg)
 
