@@ -8,7 +8,7 @@
 3. Tento repozitář si ze svého Githubu potom naklonuj k sobě na disk.
 <img src="git/clone.png" alt="clone" width="300px" />    
 
-Zkopíruj si odkaz se záložky **clone** a potom v terminálu ve vybrané složce spusť příkaz `git clone ODKAZ`.   
+Zkopíruj si odkaz ze záložky **clone** a potom v terminálu ve vybrané složce spusť příkaz `git clone ODKAZ`.   
 Například `git clone https://github.com/marketaanezka/Specificita-cviceni.git`.   
 Místo `marketaanezka` budeš mít svoje Github uživatelské jméno.   
 <img src="git/gitclone.png" alt="gitclone" width="700px" />     
