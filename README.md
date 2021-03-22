@@ -9,8 +9,8 @@
 <img src="git/clone.png" alt="clone" width="300px" /> 
 
 Zkopíruj si odkaz se záložky **clone** a potom v terminálu ve vybrané složce spusť příkaz `git clone ODKAZ`. Například `git clone https://github.com/marketaanezka/Specificita-cviceni.git`.
-
-![git clone](git/gitclone.png) 4. Tady už můžeš přidávat, commitovat a pushovat změny a uvidíš je na svém Githubu.  
+<img src="git/gitclone.png" alt="gitclone" width="700px" /> 
+4. Tady už můžeš přidávat, commitovat a pushovat změny a uvidíš je na svém Githubu.  
 ! Pokud by sis naklonovala rovnou tento repozitář, nemohla bys do něj ukládat změny! \
 Na to, jak udělat fork repozitáře se můžes podívat v [krátkém videu](https://youtu.be/K7rE3jRCjD4).
 
@@ -36,7 +36,7 @@ Ve složce **vysledek** máš soubor **specificita_result** a **specificita_hint
 
 V terminálu se přesuň do správné složky. Pro přesunutí do složky použij `cd NAZEVSLOZKY`, pro přesun o složku výš použij `cd ..`
 
-![git clone](git/folder.png)
+<img src="git/folder.png" alt="folder" width="700px" /> 
 
 Ve složce postupně spusť tyto příkazy:
 
