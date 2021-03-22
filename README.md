@@ -4,10 +4,9 @@
 
 1. Přihlas se do Githubu.
 2. Udělej si **fork** tohoto repozitáře (vpravo nahoře). Tím se ti úkol zkopíruje to tvého Github účtu.  
-   ![fork](git/fork.png)
+<img src="git/fork.png" alt="fork" width="300px" /> 
 3. Tento repozitář si ze svého Githubu potom naklonuj k sobě na disk.
-
-![clone](git/clone.png)
+<img src="git/clone.png" alt="clone" width="300px" /> 
 
 Zkopíruj si odkaz se záložky **clone** a potom v terminálu ve vybrané složce spusť příkaz `git clone ODKAZ`. Například `git clone https://github.com/marketaanezka/Specificita-cviceni.git`.
 
@@ -19,11 +18,11 @@ Na to, jak udělat fork repozitáře se můžes podívat v [krátkém videu](htt
 
 Prohlédni si soubor index.html. Všimni si, že na řádku 9 je do stránky naimportovaná knihovna Bootstrap. Ta zajišťuje, že použitím určitých tříd se nám dané elementy rovnou nastylují.
 
-![bootstrap](vysledek/bootstrap.jpg)
+<img src="vysledek/bootstrap.jpg" alt="bootstrap card" width="300px" /> 
 
 ### Přepiš stylování elementů podle zadání
 
-![result](vysledek/result.jpg) 
+<img src="vysledek/result.jpg" alt="result card" width="300px" /> 
 
 #### Styly piš do souboru style.css
 1. Tělo kartičky (vše pod obrázkem) nastav pozadí na barvu `#fff0ee` a nastav mu padding nahoře a dole na 1rem a po stranách na 1.5rem
