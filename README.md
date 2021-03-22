@@ -30,8 +30,8 @@ Ta zajišťuje, že použitím určitých tříd se nám dané elementy rovnou n
 2. Nadpis udělej kapitálkami (vlasnost `text-transform`) a přepiš margin-bottom na 1rem.
 3. Tlačítku změn barvu pozadí a rámečku na barvu `#b10849`
 
-Spusť si stránku a podívej se do developer tools *(pravým + prozkoumat stránku* nebo *F12)* na stylování jednotlivých elementů a jejich specificitu.   
-Ve svém stylování budeš muset tuto specificitu přebít. Nepoužívej inline stylování, ani `!important`.    
+Spusť si stránku a podívej se do developer tools *(pravým + prozkoumat stránku* nebo *F12)* na stylování jednotlivých elementů a jejich specificitu.
+Ve svém stylování budeš muset tuto specificitu přebít. Nepoužívej ale inline stylování, ani `!important`.    
 Ve složce **vysledek** máš soubor **specificita_result** a **specificita_hint**, které ti poradí, které stylování musíš přepsat.
 
 ### Ulož si změny do Githubu
